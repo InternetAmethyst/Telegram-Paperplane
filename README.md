@@ -40,7 +40,7 @@ For discussion, bug reporting, and help, you can join [our discussion group](htt
 
 If you find a bug, don't hesitate to report it in our Telegram group or open an issue on this repository. As for unofficial
 forks of Paperplane, we will only assist with issues affecting our central repository, found on [this repo](https://github.com/RaphielGang/Telegram-Userbot). So, before asking help for setting up the bot or reporting a bug you found, MAKE SURE you are using this repo, and not a fork you found somewhere else. You may get ignored if you ask for help with a fork.
-
+ 
 ## Credits
 
 Over the years, Paperplane evolved thanks to the dozens of contributors who have contributed, large or small, to the project. Listing all of them here would be impossible, as even the person in the group who reported a small bug has made their share of contribution to the project. We thank all of our contributors who have done and are doing even the slightest for the project.
